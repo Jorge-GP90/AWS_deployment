@@ -233,6 +233,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-darwin-21
 
 DEPENDENCIES
   bcrypt_pbkdf
@@ -263,7 +264,7 @@ DEPENDENCIES
   webpacker (~> 4.0)
 
 RUBY VERSION
-   ruby 2.6.5p114
+   ruby 3.0.1p64
 
 BUNDLED WITH
    2.2.32
